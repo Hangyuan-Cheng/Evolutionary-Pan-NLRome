@@ -1,4 +1,4 @@
-# Rice pan-NLRome uncovers evolutionary dynamics of disease resistance proteins during domestication
+## Rice pan-NLRome uncovers evolutionary dynamics of disease resistance proteins during domestication
 Code for article “Rice pan-NLRome uncovers evolutionary dynamics of disease resistance proteins during domestication”
 
 -------
